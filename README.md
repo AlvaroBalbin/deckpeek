@@ -6,6 +6,8 @@ they reached your ask, and if they came back.
 
 Self-hosted, no accounts, no data leaves your machine. MIT.
 
+![The DeckPeek dashboard: an attention heatmap per slide, plus reached-the-ask, drop-off and re-opens for each recipient](docs/dashboard.png)
+
 ## Why
 
 We're raising, and sending a deck out felt like dropping it into a hole. You
