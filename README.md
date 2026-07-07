@@ -6,6 +6,20 @@ they reached your ask, and if they came back.
 
 Self-hosted, no accounts, no data leaves your machine. MIT.
 
+## Why
+
+We're raising, and sending a deck out felt like dropping it into a hole. You
+email a PDF and hear nothing back: no idea if anyone opened it, which slide lost
+them, or whether they ever reached the ask. The tools that tell you this are
+closed and pricey, and I'd rather not push our real deck through someone else's
+service. So I built a small one we could host ourselves and read the signal off
+our own decks.
+
+The other half of it: we had a couple of friends who work in VC read the deck
+through here, so we could see which slides actually held their attention and
+which got skipped, instead of the polite version they'd give us over coffee. That
+gut-check was useful enough that we cleaned it up and put it out.
+
 ## Run it
 
 ```bash
